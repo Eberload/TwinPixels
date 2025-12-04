@@ -1,93 +1,3 @@
------------------------------------------ESPAÑOL-----------------------------------------------------
-
-                                     LICENCIA DE USO
-1. DESCRIPCIÓN
-
-TwinPixels es un software de código cerrado distribuido bajo un modelo Donationware.
-Si encuentras valor en este software, se invita a realizar una donación voluntaria al desarrollador.
-
-2. DEFINICIONES
-
-A efectos de esta licencia:
-
-Software: Ejecutables, componentes, archivos asociados y documentación de TwinPixels.
-
-Usuario: Persona física o jurídica que utilice el software.
-
-Distribución: Copiar y compartir el software únicamente en su forma original e íntegra.
-
-Uso Personal: Utilización del Software por una persona para fines privados, domésticos o recreativos, sin relación con actividades profesionales, laborales, institucionales, educativas formales ni comerciales. 
-El uso personal no genera ingresos ni forma parte de un servicio, producto, proyecto o actividad económica directa o indirectamente remunerada.
-
-Uso Educativo: Utilización del Software en actividades de enseñanza, aprendizaje, capacitación, investigación académica o desarrollo formativo,
-Incluye su uso por estudiantes, docentes, investigadores, centros educativos, instructores independientes y entidades sin ánimo de lucro.
-
-Uso Comercial: Utilización del Software en actividades profesionales, laborales, empresariales, institucionales o económicas.
-
-Donación: Contribución voluntaria sin obligación contractual.
-
-3. PERMISOS
-
-Se concede al Usuario una licencia no exclusiva, mundial y sin limitaciones de uso distintas a las establecidas en esta licencia para:
-
-Usar el software con propósito personal, educativo o comercial.
-
-Acceder y utilizar el software sin pago, registro ni activación.
-
-Prestar servicios o realizar actividades remuneradas en las que el Usuario emplee el Software parcial o totalmente como herramienta,
-siempre que la remuneración se derive exclusivamente del servicio o trabajo realizado, y no de la venta, alquiler o comercialización del Software.
-
-4. RESTRICCIONES
-
-El Usuario acepta las siguientes condiciones:
-
-4.1 PROHIBICIÓN DE VENTA
-
-No está permitido vender, alquilar, licenciar o comercializar el software como producto independiente ni incluirlo como parte de un software de pago.
-
-4.2 MODIFICACIONES
-
-No se permite modificar, descompilar, desensamblar o alterar el software.
-
-No se autoriza distribuir versiones modificadas, derivadas o alteradas.
-
-4.3 DISTRIBUCIÓN
-
-No está permitido subir, alojar ni poner a disposición el Software en repositorios públicos o privados,
-plataformas de descarga, catálogos de software o servicios similares, que generen ingresos directa o indirectamente.
-
-4.4 ACREDITACIÓN
-
-Cuando el software sea utilizado en actividades Educativas o Comerciales, el Usuario deberá otorgar una mención o acreditación al Software,
-indicando el nombre “TwinPixels”, en la forma y lugar que considere pertinente, siempre que ello sea razonable dentro del contexto de uso.
-Esta acreditación no implica patrocinio, respaldo ni asociación entre el Usuario y el desarrollador.
-
-4.5 USO PROHIBIDO
-
-El software no podrá emplearse para actividades ilegales, fraudulentas o que vulneren derechos de terceros.
-
-5. DONACIONES
-
-Las donaciones pueden realizarse en:
-https://ko-fi.com/eberload
-
-Las donaciones no otorgan derechos adicionales ni privilegios especiales sobre el software,
-ni garantía de continuidad del desarrollo.
-
-6. EXENCIÓN DE RESPONSABILIDAD
-
-EL SOFTWARE SE PROPORCIONA “TAL CUAL” Y “SEGÚN DISPONIBILIDAD”.
-EL DESARROLLADOR NO OTORGA GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, ENTRE OTRAS, GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR, DISPONIBILIDAD, EXACTITUD O AUSENCIA DE ERRORES.
-EN NINGÚN CASO EL DESARROLLADOR SERÁ RESPONSABLE POR DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES DERIVADOS DEL USO O IMPOSIBILIDAD DE USO DEL SOFTWARE, AUN CUANDO SE LE HAYA ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
-EL USUARIO ASUME TODOS LOS RIESGOS ASOCIADOS CON EL USO DEL SOFTWARE, INCLUYENDO PÉRDIDA DE DATOS, INTERRUPCIONES, FALLAS DEL SISTEMA O CUALQUIER OTRO RESULTADO ADVERSO.
-
-7. LEY APLICABLE
-
-Esta licencia se interpretará y aplicará conforme a las leyes del país de residencia del desarrollador, sin perjuicio de las normas imperativas que resulten aplicables en la jurisdicción del Usuario.
-Si alguna cláusula se considera inválida o inaplicable, las demás disposiciones permanecerán en pleno efecto.   
-
-El uso, ejecución o distribución del Software implica la aceptación plena de los términos de esta licencia por parte del Usuario.  
-                     
 -----------------------------------------ENGLISH-----------------------------------------------------
 
                                       LICENSE OF USE
@@ -178,3 +88,93 @@ This license shall be interpreted and applied in accordance with the laws of the
 If any clause is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 The use, execution, or distribution of the Software implies the User’s full acceptance of the terms of this license.
+
+-----------------------------------------ESPAÑOL-----------------------------------------------------
+
+                                     LICENCIA DE USO
+1. DESCRIPCIÓN
+
+TwinPixels es un software de código cerrado distribuido bajo un modelo Donationware.
+Si encuentras valor en este software, se invita a realizar una donación voluntaria al desarrollador.
+
+2. DEFINICIONES
+
+A efectos de esta licencia:
+
+Software: Ejecutables, componentes, archivos asociados y documentación de TwinPixels.
+
+Usuario: Persona física o jurídica que utilice el software.
+
+Distribución: Copiar y compartir el software únicamente en su forma original e íntegra.
+
+Uso Personal: Utilización del Software por una persona para fines privados, domésticos o recreativos, sin relación con actividades profesionales, laborales, institucionales, educativas formales ni comerciales. 
+El uso personal no genera ingresos ni forma parte de un servicio, producto, proyecto o actividad económica directa o indirectamente remunerada.
+
+Uso Educativo: Utilización del Software en actividades de enseñanza, aprendizaje, capacitación, investigación académica o desarrollo formativo,
+Incluye su uso por estudiantes, docentes, investigadores, centros educativos, instructores independientes y entidades sin ánimo de lucro.
+
+Uso Comercial: Utilización del Software en actividades profesionales, laborales, empresariales, institucionales o económicas.
+
+Donación: Contribución voluntaria sin obligación contractual.
+
+3. PERMISOS
+
+Se concede al Usuario una licencia no exclusiva, mundial y sin limitaciones de uso distintas a las establecidas en esta licencia para:
+
+Usar el software con propósito personal, educativo o comercial.
+
+Acceder y utilizar el software sin pago, registro ni activación.
+
+Prestar servicios o realizar actividades remuneradas en las que el Usuario emplee el Software parcial o totalmente como herramienta,
+siempre que la remuneración se derive exclusivamente del servicio o trabajo realizado, y no de la venta, alquiler o comercialización del Software.
+
+4. RESTRICCIONES
+
+El Usuario acepta las siguientes condiciones:
+
+4.1 PROHIBICIÓN DE VENTA
+
+No está permitido vender, alquilar, licenciar o comercializar el software como producto independiente ni incluirlo como parte de un software de pago.
+
+4.2 MODIFICACIONES
+
+No se permite modificar, descompilar, desensamblar o alterar el software.
+
+No se autoriza distribuir versiones modificadas, derivadas o alteradas.
+
+4.3 DISTRIBUCIÓN
+
+No está permitido subir, alojar ni poner a disposición el Software en repositorios públicos o privados,
+plataformas de descarga, catálogos de software o servicios similares, que generen ingresos directa o indirectamente.
+
+4.4 ACREDITACIÓN
+
+Cuando el software sea utilizado en actividades Educativas o Comerciales, el Usuario deberá otorgar una mención o acreditación al Software,
+indicando el nombre “TwinPixels”, en la forma y lugar que considere pertinente, siempre que ello sea razonable dentro del contexto de uso.
+Esta acreditación no implica patrocinio, respaldo ni asociación entre el Usuario y el desarrollador.
+
+4.5 USO PROHIBIDO
+
+El software no podrá emplearse para actividades ilegales, fraudulentas o que vulneren derechos de terceros.
+
+5. DONACIONES
+
+Las donaciones pueden realizarse en:
+https://ko-fi.com/eberload
+
+Las donaciones no otorgan derechos adicionales ni privilegios especiales sobre el software,
+ni garantía de continuidad del desarrollo.
+
+6. EXENCIÓN DE RESPONSABILIDAD
+
+EL SOFTWARE SE PROPORCIONA “TAL CUAL” Y “SEGÚN DISPONIBILIDAD”.
+EL DESARROLLADOR NO OTORGA GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, ENTRE OTRAS, GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR, DISPONIBILIDAD, EXACTITUD O AUSENCIA DE ERRORES.
+EN NINGÚN CASO EL DESARROLLADOR SERÁ RESPONSABLE POR DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES DERIVADOS DEL USO O IMPOSIBILIDAD DE USO DEL SOFTWARE, AUN CUANDO SE LE HAYA ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
+EL USUARIO ASUME TODOS LOS RIESGOS ASOCIADOS CON EL USO DEL SOFTWARE, INCLUYENDO PÉRDIDA DE DATOS, INTERRUPCIONES, FALLAS DEL SISTEMA O CUALQUIER OTRO RESULTADO ADVERSO.
+
+7. LEY APLICABLE
+
+Esta licencia se interpretará y aplicará conforme a las leyes del país de residencia del desarrollador, sin perjuicio de las normas imperativas que resulten aplicables en la jurisdicción del Usuario.
+Si alguna cláusula se considera inválida o inaplicable, las demás disposiciones permanecerán en pleno efecto.   
+
+El uso, ejecución o distribución del Software implica la aceptación plena de los términos de esta licencia por parte del Usuario.  
