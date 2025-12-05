@@ -86,3 +86,95 @@ If you find it useful, please consider donating.💰
 https://ko-fi.com/eberload
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/1.0.0.png)
+
+TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado, y permite exportar imágenes comparativas. Es ideal para fotógrafos, diseñadores, historiadores, investigadores o cualquier persona que necesite analizar imágenes.
+
+# EJECUCIÓN
+- Descarga el archivo ejecutable "TwinPixels.exe" desde el enlace proporcionado por el desarrollador.
+- No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
+- Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
+- El ejecutable incluye todas las dependencias necesarias.
+
+# INTERFAZ DE USUARIO
+La interfaz está organizada en tres áreas principales:
+
+Panel izquierdo:
+- Carga de carpeta.
+- Selección libre.
+- Botón para limpiar elementos cargados.
+- Indicador de sincronización.
+- Lista de pares de imágenes.
+- Botón de captura.
+- Pantalla completa.
+
+Panel derecho:
+- Visor izquierdo (Imagen 1).
+- Visor derecho (Imagen 2).
+- Controles de zoom específicos para cada visor (✚, ━, ⌞ ⌝).
+
+Barra de menú superior contiene: Archivo, Opciones  y Acerca.
+
+# CARGA DE IMÁGENES
+- 📂 Cargar carpeta: Selecciona una carpeta → las imágenes se agrupan automáticamente en pares según orden alfabético.
+- 🖼️ Selección libre: Selecciona imágenes individuales manteniendo Ctrl → se emparejan en el orden exacto de selección.
+- Los pares aparecen en la lista lateral → haz clic para visualizar.
+
+Formatos soportados
+- PNG, JPG/JPEG, BMP, GIF, TIFF, WEBP
+  
+# VISUALIZACIÓN
+- Haz doble clic en cualquier par de la lista para cargarlo.
+- Usa las teclas izquierda y derecha del teclado para navegar entre pares.
+- Click + arrastre para mover la imagen (panorámica).
+Funciones de zoom
+- Botón ✚: Acerca la imagen (zoom in).
+- Botón ━: Aleja la imagen (zoom out).
+- Botón ⌞ ⌝: Ajusta la imagen al tamaño del visor.
+- Rueda del mouse: Zoom adelante y atrás.
+  
+Sincronización automática
+- Se activa cuando ambas imágenes tienen el mismo tamaño (ancho/alto).
+- Estado visible en el panel izquierdo (verde=activada, rojo=desactivada).
+- Cuando está activada: El zoom y movimiento actuan igual en ambos visores.
+  
+Sincronización desactivada
+Las imágenes actuaran de manera independiente en cada visor, usa el zoom y el movimiento en cada visor para comparar manualmente. 
+
+Modo pantalla completa
+- Botón ⛶ Pantalla completa o F11 para activar.
+- Esc o F11 para salir del modo.
+- Oculta todos los paneles de control.
+- Maximiza el área de visualización.
+  
+Captura de Pantalla
+- Haz clic en "💾 Capturar".
+- Elige ubicación y formato para guardar.
+- La captura incluirá ambas imágenes lado a lado en una sola usando la vista que se tenga en ese momento, guardando una copia.
+- Formatos de Captura: PNG (mejor calidad), JPEG (menor tamaño).
+
+# IMPORTANTE 
+- Orden de selección: En "Selección libre", elige las imágenes en el orden exacto que quieres emparejarlas.
+- La sincronización solo funciona con imágenes de dimensiones idénticas, esto NO significa que deban tener el mismo contenido, solo se refiere a su ancho y alto en pixeles.
+- La aplicación puede manejar imágenes muy grandes, el limite son 30.000px.
+  
+Guardar lista de comparaciones
+- Menú Archivo → Guardar lista (Ctrl+S) → genera un archivo .tpxl con todos los pares actuales.
+- Menú Archivo → Cargar lista (Ctrl+O) →  Carga la lista guardada.
+
+# ATAJOS DE TECLADO 
+- Ctrl + + 🔍 Acercar zoom en ambos visores.
+- Ctrl + - 🔍 Alejar zoom en ambos visores.
+- F11 ⛶ Alternar pantalla completa.
+- Esc o F11 🚪 Salir de pantalla completa.
+- ← (Flecha del teclado izquierda) Par anterior.
+- → (Flecha del teclado derecha) Siguiente par.
+- Rueda del ratón 🔍 Zoom en visor activo.
+
+# PERSONALIZACIÓN 
+- Menú Opciones → Tema (Claro/Oscuro).
+- Menú Opciones → Idioma  (Español/Inglés).
+- Las preferencias se guardan automáticamente.
+      
+¡Gracias por usar TwinPixels!
+Si te es útil, considera donar.💰
+https://ko-fi.com/eberload
