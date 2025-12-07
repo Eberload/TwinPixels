@@ -12,6 +12,8 @@ TwinPixels is an application for viewing and comparing images side by side. It a
 - If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
 - The executable file includes all necessary dependencies.
 
+![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/6.0.0.png)
+
 # USER INTERFACE
 The interface is organized into three main areas:
 
@@ -116,6 +118,8 @@ TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. 
 - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
 - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
 - El ejecutable incluye todas las dependencias necesarias.
+
+![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/6.0.0.png)
 
 # INTERFAZ DE USUARIO
 La interfaz está organizada en tres áreas principales:
