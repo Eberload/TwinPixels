@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/1.0.0.png)
 
-TwinPixels is an application for viewing and comparing images side by side. It allows you to load pairs of images from entire folders or select files manually, features zoom and synchronized movement functions, as well as exporting the comparative view. It is ideal for photographers, designers, historians, researchers, or anyone who needs to analyze images.
+TwinPixels is an application for viewing and comparing images side by side. It allows you to load pairs of images from entire folders or select files manually, features zoom and synchronized movement functions, as well as exporting the comparative view. You can add multiple image pairs and save them ready for presentations with its full-screen mode. It is ideal for photographers, designers, historians, researchers, or anyone who needs to analyze images.
 
 # EXECUTION
 - Download the executable file “TwinPixels.exe” from the link provided by the developer.
@@ -111,7 +111,7 @@ https://ko-fi.com/eberload
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/1.0.0.png)
 
-TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado, además de exportar la vista comparativa. Es ideal para fotógrafos, diseñadores, historiadores, investigadores o cualquier persona que necesite analizar imágenes.
+TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado, además de exportar la vista comparativa. Puede añadir múltiples pares imágenes y guardas listas para presentaciones con su modo en pantalla completa. Es ideal para fotógrafos, diseñadores, historiadores, investigadores o cualquier persona que necesite analizar imágenes.  
 
 # EJECUCIÓN
 - Descarga el archivo ejecutable "TwinPixels.exe" desde el enlace proporcionado por el desarrollador.
