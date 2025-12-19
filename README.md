@@ -54,7 +54,7 @@ Top menu bar contains: File, Options, and About.
 - ⌞ ⌝ button: Adjust the image to the size of the viewer.
 - Mouse wheel: Zoom in and out.
 
-# Auto Sync
+# Auto sync
 - Activated when both images are the same size (width/height).
 - Status visible in the left panel (green=activated, red=deactivated).
 - When activated: Zoom and movement work the same in both viewfinders.
@@ -86,20 +86,6 @@ The images will act independently in each viewer; use the zoom and movement in e
 # Save comparison list
 - File menu → Save list (Ctrl+S) → generates a .tpxl file with all current pairs.
 - File menu → Load list (Ctrl+O) → Loads the saved list.
-
-# SHORTCUTS
-- Ctrl + + 🔍 Zoom in on both viewers.
-- Ctrl + - 🔍 Zoom out on both viewers.
-- F11 ⛶ Toggle full screen.
-- Esc or F11 🚪 Exit full screen.
-- ← (Left arrow key) Previous pair.
-- → (Right arrow key) Next pair.
-- Mouse wheel 🔍 Zoom in on active viewer.
-
-# CUSTOMIZATION 
-- Options menu → Theme (Light/Dark).
-- Options menu → Language (Spanish/English).
-- Preferences are saved automatically.
 
 Thank you for using TwinPixels!
 If you find it useful, please consider donating.💰
@@ -193,20 +179,6 @@ Captura de Pantalla
 Guardar lista de comparaciones
 - Menú Archivo → Guardar lista (Ctrl+S) → genera un archivo .tpxl con todos los pares actuales.
 - Menú Archivo → Cargar lista (Ctrl+O) →  Carga la lista guardada.
-
-# ATAJOS DE TECLADO 
-- Ctrl + + 🔍 Acercar zoom en ambos visores.
-- Ctrl + - 🔍 Alejar zoom en ambos visores.
-- F11 ⛶ Alternar pantalla completa.
-- Esc o F11 🚪 Salir de pantalla completa.
-- ← (Flecha del teclado izquierda) Par anterior.
-- → (Flecha del teclado derecha) Siguiente par.
-- Rueda del ratón 🔍 Zoom en visor activo.
-
-# PERSONALIZACIÓN 
-- Menú Opciones → Tema (Claro/Oscuro).
-- Menú Opciones → Idioma  (Español/Inglés).
-- Las preferencias se guardan automáticamente.
       
 ¡Gracias por usar TwinPixels!
 Si te es útil, considera donar.💰
