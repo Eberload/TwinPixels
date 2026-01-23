@@ -7,10 +7,10 @@
 TwinPixels is an application for viewing and comparing images side by side. It allows you to load pairs of images from entire folders or select files manually, and features zoom and synchronized movement functions. You can add multiple pairs of images and save lists for presentations with its full-screen mode and keyboard control. 
 
 # EXECUTION
-- Download the executable file “TwinPixels.exe” from the link provided by the developer.
-- No installation required: simply run the “.exe” file by double-clicking it.
-- If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
-- The executable file includes all necessary dependencies.
+Download the executable file “TwinPixels.exe” from the link provided by the developer.
+No installation required: simply run the “.exe” file by double-clicking it.
+If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
+The executable file includes all necessary dependencies.
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/6.0.0.png)
 
@@ -18,18 +18,18 @@ TwinPixels is an application for viewing and comparing images side by side. It a
 The interface is organized into three main areas:
 
 Left panel:
-- Folder loading.
-- Free selection.
-- Button to clear loaded items.
-- Synchronization indicator.
-- List of image pairs.
-- Screenshot button.
-- Full screen.
+Folder loading.
+Free selection.
+Button to clear loaded items.
+Synchronization indicator.
+List of image pairs.
+Screenshot button.
+Full screen.
 
 # Right panel:
-- Left viewer (Image 1).
-- Right viewer (Image 2).
-- Specific zoom controls for each viewer (✚, ━, ⌞ ⌝).
+Left viewer (Image 1).
+Right viewer (Image 2).
+Specific zoom controls for each viewer (✚, ━, ⌞ ⌝).
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/2.0.0.png)
 
