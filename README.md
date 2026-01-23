@@ -141,18 +141,18 @@ Formatos soportados
 - Usa las teclas izquierda y derecha del teclado para navegar entre pares.
 - Click + arrastre para mover la imagen (panorámica).
 
-Funciones de zoom
+# Funciones de zoom
 - Botón ✚: Acerca la imagen (zoom in).
 - Botón ━: Aleja la imagen (zoom out).
 - Botón ⌞ ⌝: Ajusta la imagen al tamaño del visor.
 - Rueda del mouse: Zoom adelante y atrás.
   
-Sincronización automática
+# Sincronización automática
 - Se activa cuando ambas imágenes tienen el mismo tamaño (ancho/alto).
 - Estado visible en el panel izquierdo (verde=activada, rojo=desactivada).
 - Cuando está activada: El zoom y movimiento actuan igual en ambos visores.
   
-Sincronización desactivada
+# Sincronización desactivada
 Las imágenes actuaran de manera independiente en cada visor, usa el zoom y el movimiento en cada visor para comparar manualmente. 
 
 Modo pantalla completa
@@ -163,7 +163,7 @@ Modo pantalla completa
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/3.0.0.png)
   
-Captura de Pantalla
+# Captura de Pantalla
 - Haz clic en "💾 Capturar".
 - Elige ubicación y formato para guardar.
 - La captura incluirá ambas imágenes lado a lado en una sola usando la vista que se tenga en ese momento, guardando una copia.
@@ -174,9 +174,9 @@ Captura de Pantalla
 # IMPORTANTE 
 - Orden de selección: En "Selección libre", elige las imágenes en el orden exacto que quieres emparejarlas.
 - La sincronización solo funciona con imágenes de dimensiones idénticas, esto NO significa que deban tener el mismo contenido, solo se refiere a su ancho y alto en pixeles.
-- La aplicación puede manejar imágenes muy grandes, el limite son 30.000px.
+- La aplicación puede manejar imágenes muy grandes, el límite son 30.000px.
   
-Guardar lista de comparaciones
+# Guardar lista de comparaciones
 - Menú Archivo → Guardar lista (Ctrl+S) → genera un archivo .tpxl con todos los pares actuales.
 - Menú Archivo → Cargar lista (Ctrl+O) →  Carga la lista guardada.
       
