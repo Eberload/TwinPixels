@@ -6,6 +6,8 @@
 
 TwinPixels is an application for viewing and comparing images side by side. It allows you to load pairs of images from entire folders or select files manually, and features zoom and synchronized movement functions. You can add multiple pairs of images and save lists for presentations with its full-screen mode and keyboard control. 
 
+Interface language:  Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
+
 # EXECUTION
 - Download the executable file “TwinPixels.exe” from the link provided by the developer.
 - No installation required: simply run the “.exe” file by double-clicking it.
@@ -99,6 +101,8 @@ https://ko-fi.com/eberload
 
 TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado. Puede añadir múltiples pares imágenes y guardar listas para presentaciones con su modo de pantalla completa y control con el teclado. 
 
+Idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
+
 # EJECUCIÓN
 - Descarga el archivo ejecutable "TwinPixels.exe" desde el enlace proporcionado por el desarrollador.
 - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
@@ -183,3 +187,5 @@ Modo pantalla completa
 ¡Gracias por usar TwinPixels!
 Si te es útil, considera donar.💰
 https://ko-fi.com/eberload
+
+INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
