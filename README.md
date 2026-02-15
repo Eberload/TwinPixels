@@ -128,7 +128,7 @@ Panel derecho:
 - Visor derecho (Imagen 2).
 - Controles de zoom específicos para cada visor (✚, ━, ⌞ ⌝).
 
-![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/2.0.0.png)
+![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/8.1.1.1.png)
 
 Barra de menú superior contiene: Archivo, Opciones  y Acerca.
 
