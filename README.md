@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/1.0.0.png)
+![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/1.1.1.1.png)
 
 TwinPixels is an application for viewing and comparing images side by side. It allows you to load pairs of images from entire folders or select files manually, and features zoom and synchronized movement functions. You can add multiple pairs of images and save lists for presentations with its full-screen mode and keyboard control. 
 
@@ -97,7 +97,7 @@ https://ko-fi.com/eberload
 
 # TwinPixels - Comparar imágenes en pantalla dividida
 
-![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/1.0.0.png)
+![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/7.1.1.1.png)
 
 TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado. Puede añadir múltiples pares imágenes y guardar listas para presentaciones con su modo de pantalla completa y control con el teclado. 
 
