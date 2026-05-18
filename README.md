@@ -1,18 +1,23 @@
 # TwinPixels - Compare images side by side
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
-
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/1.1.1.1.png)
 
-TwinPixels is an application for viewing and comparing images side by side. It allows you to load pairs of images from entire folders or select files manually, and features zoom and synchronized movement functions. You can add multiple pairs of images and save lists for presentations with its full-screen mode and keyboard control. 
-
-Interface language:  Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
+<div align="justify">
+  <p>TwinPixels is an application for viewing and comparing images side by side. It allows you to load pairs of images from entire folders or select files manually, and features zoom and synchronized movement functions. You can add multiple pairs of images and save lists for presentations with its full-screen mode and keyboard control.</p>
+  <p>Interface language:  Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.</p>
+</div>
 
 # EXECUTION
 - Download the executable file “TwinPixels.exe” from the link provided by the developer.
 - No installation required: simply run the “.exe” file by double-clicking it.
 - If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
 - The executable file includes all necessary dependencies.
+
+<p align="center">
+  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+    Download the latest version here.
+  </a>
+</p>
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/6.0.0.png)
 
@@ -89,9 +94,13 @@ The images will act independently in each viewer; use the zoom and movement in e
 - File menu → Save list (Ctrl+S) → generates a .tpxl file with all current pairs.
 - File menu → Load list (Ctrl+O) → Loads the saved list.
 
-Thank you for using TwinPixels!
-If you find it useful, please consider donating.💰
-https://ko-fi.com/eberload
+<div align="center">
+  <p><strong>Thank you for using TwinPixels!</strong></p>
+ <p><strong>If you find it useful, consider donating.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/5.0.0.png)
 
@@ -99,15 +108,22 @@ https://ko-fi.com/eberload
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/7.1.1.1.png)
 
-TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado. Puede añadir múltiples pares imágenes y guardar listas para presentaciones con su modo de pantalla completa y control con el teclado. 
-
-Idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
+<div align="center">
+  <p>TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado. Puede añadir múltiples pares imágenes y guardar listas para presentaciones con su modo de pantalla completa y control con el teclado. </p>
+  <p>Idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.</p>
+</div>
 
 # EJECUCIÓN
 - Descarga el archivo ejecutable "TwinPixels.exe" desde el enlace proporcionado por el desarrollador.
 - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
 - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
 - El ejecutable incluye todas las dependencias necesarias.
+
+<p align="center">
+  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+    Descarga la versión más reciente aquí.
+  </a>
+</p>
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/6.0.0.png)
 
@@ -184,9 +200,16 @@ Modo pantalla completa
 - Menú Archivo → Guardar lista (Ctrl+S) → genera un archivo .tpxl con todos los pares actuales.
 - Menú Archivo → Cargar lista (Ctrl+O) →  Carga la lista guardada.
       
-¡Gracias por usar TwinPixels!
-Si te es útil, considera donar.💰
-https://ko-fi.com/eberload
+<div align="center">
+  <p><strong>¡Gracias por usar TwinPixels!</strong></p>
+  </p><strong>Si te es útil, considera donar.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
 
-- INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
-- Application compatible with: Windows x64; Linux x64
+<div align="justify">
+ <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
+<p>Application compatible with: Windows x64; Linux x64</p>
+</div>
+
