@@ -108,7 +108,7 @@ The images will act independently in each viewer; use the zoom and movement in e
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/7.1.1.1.png)
 
-<div align="center">
+<div align="justify">
   <p>TwinPixels es una aplicación para visualizar y comparar imágenes lado a lado. Permite cargar pares de imágenes desde carpetas completas o seleccionar los archivos manualmente, cuenta con funciones de zoom y movimiento sincronizado. Puede añadir múltiples pares imágenes y guardar listas para presentaciones con su modo de pantalla completa y control con el teclado. </p>
   <p>Idioma de la interfaz:  Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.</p>
 </div>
