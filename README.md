@@ -14,7 +14,7 @@
 - The executable file includes all necessary dependencies.
 
 <p align="center">
-  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+  <a href="https://github.com/Eberload/TwinPixels/releases">
     Download the latest version here.
   </a>
 </p>
@@ -120,7 +120,7 @@ The images will act independently in each viewer; use the zoom and movement in e
 - El ejecutable incluye todas las dependencias necesarias.
 
 <p align="center">
-  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+  <a href="https://github.com/Eberload/TwinPixels/releases">
     Descarga la versión más reciente aquí.
   </a>
 </p>
