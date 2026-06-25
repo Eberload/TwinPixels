@@ -213,3 +213,6 @@ Modo pantalla completa
 <p>Application compatible with: Windows x64; Linux x64</p>
 </div>
 
+![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/L.1.0.1.png)
+
+
