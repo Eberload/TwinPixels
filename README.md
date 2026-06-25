@@ -215,4 +215,6 @@ Modo pantalla completa
 
 ![alt text](https://github.com/Eberload/TwinPixels/blob/main/Screenshots/L.1.0.1.png)
 
-
+<div align="center">
+<p><i>TwinPixels AppImage running on Linux.</i></p>
+</div>
